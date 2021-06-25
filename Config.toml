@@ -1,0 +1,4 @@
+dbUsername = "USERNAME"
+dbPassword = "PASSWORD"
+dbName = "DB_NAME"
+port = DB_PORT
